@@ -15,7 +15,6 @@ __________________________________________________
 ## a	b	d	e	ɛ	f	g	h	i	k	l	m	n	o	ɔ	p	r	s	t	u	w	y
 
 
-
 ## Reference
 #### [1] https://en.wikipedia.org/wiki/Akan_language
 #### [2] https://www.amesall.rutgers.edu/languages/128-akan-twi
