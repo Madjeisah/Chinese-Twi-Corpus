@@ -5,7 +5,7 @@ We detailed the modeling of a massively parallel Bible corpus based on Twi, a co
 ## The Akan Language also known as Twi
 Is a spoken language in the southern and central part of Ghana by several people, mainly of the Akan tribe. It is the biggest of about 18 major tribes in Ghana and forms about 70% of the Ghanaian population as a first and second language [1]. Twi is a common name for two former literary dialects of the Akan language; Asante (Ashanti) and Akuapem, which are mutually intelligible. There are about 9 million Twi speakers, mainly originating from the Ashanti Region [2] and about a total of 17–18 million Ghanaians as either first or second Twi language speakers. The Twi alphabet contains 22 letters as shown in table 1. Letters C, J, V, and Z are also used, but only in loanwords [1]. 
 __________________________________________________
-             THE TWI ALPHABET
+             ### THE TWI ALPHABET
 __________________________________________________
 #### Majuscule forms (uppercase or capital letters)
 
